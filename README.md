@@ -1,5 +1,10 @@
 # repaint-perfs
-test repaint rates of JS libs http://guimeisang.github.io/repaint-perfs  
+test repaint rates of JS libs http://guimeisang.github.io/repaint-perfs   
+angular  https://guimeisang.github.io/repaint-perfs/angular/     
+angular2  https://guimeisang.github.io/repaint-perfs/angular2/   
+vue  https://guimeisang.github.io/repaint-perfs/vue/    
+vue2  https://guimeisang.github.io/repaint-perfs/vue2/    
+react  https://guimeisang.github.io/repaint-perfs/react/    
 
 ## 目的对比主流MVVM框架在数据改变时的性能   
 > 对比angular，angular2，vue，vue2，react的性能对比（重绘速度）
